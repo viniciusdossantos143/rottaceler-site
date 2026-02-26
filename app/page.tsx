@@ -155,7 +155,7 @@ return ( <div className="min-h-screen bg-white text-gray-900">
         alt="RottaCeler"
         className="h-12 md:h-14 mx-auto mb-4 object-contain"
       />
-      <p className="mt-2">Agenciamento Profissional de Cargas</p>
+      <p className="mt-2"></p>
       <p className="mt-4 text-xs opacity-70">
   © {new Date().getFullYear()} RottaCeler. Todos os direitos reservados.
 </p>
