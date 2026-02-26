@@ -1,8 +1,6 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/* ===== RESET ===== */
+/* reset básico */
 html,
 body {
   padding: 0;
@@ -10,37 +8,9 @@ body {
   scroll-behavior: smooth;
 }
 
-/* ===== BASE ===== */
+/* base */
 body {
-  @apply bg-white text-gray-900 antialiased;
-}
-
-/* ===== IMAGENS ===== */
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/* ===== SCROLLBAR ===== */
-::-webkit-scrollbar {
-  width: 8px;
-}
-
-::-webkit-scrollbar-track {
-  background: #f1f5f9;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
-  border-radius: 999px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: #94a3b8;
-}
-
-/* ===== SELECTION ===== */
-::selection {
-  background: #16a34a;
-  color: white;
+  background: #ffffff;
+  color: #111827;
+  font-family: Arial, Helvetica, sans-serif;
 }
