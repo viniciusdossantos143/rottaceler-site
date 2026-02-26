@@ -11,7 +11,7 @@ export default function RottaCelerSite() {
           />
 
           <a
-            href="https://wa.me/5581986563496"
+            href="https://wa.me/5581987547616"
             className="bg-green-600 text-white px-6 py-3 rounded-xl text-sm font-semibold hover:bg-green-700 transition shadow-md"
           >
             Falar no WhatsApp
@@ -40,7 +40,7 @@ export default function RottaCelerSite() {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://wa.me/5581986563496"
+                href="https://wa.me/5581987547616"
                 className="bg-green-600 text-white px-8 py-3 rounded-xl font-semibold hover:bg-green-700 transition shadow-lg"
               >
                 Solicitar Agenciador
@@ -171,7 +171,7 @@ export default function RottaCelerSite() {
           </p>
 
           <a
-            href="https://wa.me/5581986563496"
+            href="https://wa.me/5581987547616"
             className="bg-green-600 text-white px-10 py-4 rounded-xl font-semibold hover:bg-green-700 transition shadow-lg"
           >
             Chamar no WhatsApp
@@ -196,7 +196,7 @@ export default function RottaCelerSite() {
 
       {/* Botão WhatsApp flutuante */}
       <a
-        href="https://wa.me/5581986563496"
+        href="https://wa.me/5581987547616"
         className="fixed bottom-6 right-6 bg-green-600 hover:bg-green-700 text-white p-4 rounded-full shadow-2xl z-50"
         aria-label="WhatsApp"
       >
