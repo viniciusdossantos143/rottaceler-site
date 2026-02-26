@@ -131,7 +131,7 @@ return ( <div className="min-h-screen bg-white text-gray-900">
   <section className="py-16 md:py-20 bg-blue-950 text-white">
     <div className="max-w-4xl mx-auto px-4 md:px-6 text-center">
       <h3 className="text-2xl md:text-4xl font-extrabold mb-4">
-        Fale direto com a operação
+        
       </h3>
 
       <p className="text-blue-100 mb-8">
