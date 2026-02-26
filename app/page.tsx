@@ -6,7 +6,7 @@ return ( <div className="min-h-screen bg-white text-gray-900">
          className="h-14 md:h-24 w-auto object-contain"
        />
 
-```
+
       <a
         href="https://wa.me/5581987547616"
         className="bg-green-600 text-white px-4 md:px-6 py-2 md:py-3 rounded-xl text-sm md:text-base font-semibold hover:bg-green-700 transition shadow-md whitespace-nowrap"
@@ -157,8 +157,12 @@ return ( <div className="min-h-screen bg-white text-gray-900">
       />
       <p className="mt-2">Agenciamento Profissional de Cargas</p>
       <p className="mt-4 text-xs opacity-70">
-        © {new Date().getFullYear()} RottaCeler. Todos os direitos reservados.
-      </p>
+  © {new Date().getFullYear()} RottaCeler. Todos os direitos reservados.
+</p>
+
+<p className="mt-3 text-[11px] md:text-xs text-gray-500 leading-relaxed max-w-4xl mx-auto">
+  <strong>Aviso Legal:</strong> A RottaCeler atua exclusivamente como intermediadora de fretes, não realizando transporte, não emitindo CT-e ou MDF-e e não se responsabilizando pela execução do frete, integridade da carga, prazos, diárias, estadias, descontos, valores negociados ou obrigações fiscais, securitárias e operacionais, que são de responsabilidade exclusiva das partes contratantes do transporte.
+</p>
     </div>
   </footer>
 
